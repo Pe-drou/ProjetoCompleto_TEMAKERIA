@@ -13,3 +13,8 @@ Contém:
 
 ## Wireframe funcional mobile
 <a href="https://github.com/Pe-drou/ProjetoCompleto_TEMAKERIA/blob/master/index_mobile.pdf"><img src="https://github.com/Pe-drou/ProjetoCompleto_TEMAKERIA/blob/master/wireframemobile.png" height="400px"></a>
+
+## Site funcional, responsivo finalizado
+- nota: CSS foi feito pela professora e utilizado para finalizar o site
+
+<a href="https://github.com/Pe-drou/ProjetoCompleto_TEMAKERIA/tree/master/TEMAKERIA"><img src="https://github.com/Pe-drou/ProjetoCompleto_TEMAKERIA/blob/master/site-completo-desktop.png" width="500px"><img src="https://github.com/Pe-drou/ProjetoCompleto_TEMAKERIA/blob/master/site-completo-mobile.png" height="300px"></a> 
